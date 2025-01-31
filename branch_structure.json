@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Live-Activity-fixes",
+    "custom-dev",
+    "main",
+    "phase-2"
+  ],
+  "parent": {
+    "Live-Activity-fixes": "main",
+    "custom-dev": "main",
+    "main": null,
+    "phase-2": "main"
+  },
+  "order": [
+    "main",
+    "Live-Activity-fixes",
+    "custom-dev",
+    "phase-2"
+  ]
+}
